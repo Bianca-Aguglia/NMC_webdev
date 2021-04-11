@@ -1,0 +1,12 @@
+:root {
+    --nav_text: lightgray;
+    --nav_background: black;
+}
+.page-header {
+    color: var(--nav_text);
+    background-color: var(--nav_background);
+}
+
+.fas {
+    color: white;
+}
