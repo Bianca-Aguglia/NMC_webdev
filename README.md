@@ -11,5 +11,5 @@ The goal is to build the starting web apps for:
 - EBBI
 
 ### Plan
-Start with the web dev tutorials from https://developer.mozilla.org/en-US/.
+Start with the web dev tutorials from https://developer.mozilla.org/en-US/.  
 ETF: 04/25/21.
