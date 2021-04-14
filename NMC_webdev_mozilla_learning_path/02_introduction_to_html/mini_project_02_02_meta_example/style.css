@@ -1,0 +1,14 @@
+html {
+    font-size: 20px;
+}
+
+h1 {
+    background-color: purple;
+    color: lightgray;
+}
+
+.container {
+    background-color: lightgray;
+    width: 80%;
+    margin: 0 auto;
+}
