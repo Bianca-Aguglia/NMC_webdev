@@ -9,3 +9,6 @@ TO-DO:
 - [ ] 01_getting_started_with_the_web
     - [ ] alternating indents to the poem
     - [ ] button to change pictures
+- [ ] 09_js_first_steps
+    - [ ] 09_02_first_splash_into_js (do the number game)
+    - [ ] 09_10_assesment (do the story generator game)
