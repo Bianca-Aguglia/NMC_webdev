@@ -12,3 +12,5 @@ TO-DO:
 - [ ] 09_js_first_steps
     - [ ] 09_02_first_splash_into_js (do the number game)
     - [ ] 09_10_assesment (do the story generator game)
+- [ ] 10_ni_js_building_blocks
+    - [ ] 10_04_build_your_own_function
