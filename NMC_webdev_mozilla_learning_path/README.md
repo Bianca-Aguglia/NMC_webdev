@@ -14,3 +14,8 @@ TO-DO:
     - [ ] 09_10_assesment (do the story generator game)
 - [ ] 10_ni_js_building_blocks
     - [ ] 10_04_build_your_own_function
+    - [ ] 10_07_image_gallery
+- [ ] 11_ni_introducing_js_objects
+    - [ ] 11_03_object_prototypes (too confused now to write clear notes)
+    - [ ] 11_04_inheritance_in_js (same issue as 11_03)
+    
