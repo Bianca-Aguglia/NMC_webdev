@@ -18,4 +18,7 @@ TO-DO:
 - [ ] 11_ni_introducing_js_objects
     - [ ] 11_03_object_prototypes (too confused now to write clear notes)
     - [ ] 11_04_inheritance_in_js (same issue as 11_03)
+    - [ ] 11_07_adding_features_to_bouncing_balls
+- [ ] 12_ni_asynchronous_js
+    - [ ] 12_02_introducing_asynchronous_js
     
